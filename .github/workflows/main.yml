@@ -1,0 +1,6 @@
+name: Build Android APK (Debug)
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
